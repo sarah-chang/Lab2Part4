@@ -2,6 +2,6 @@ file from sarah
 
 line 1
 line 2
-adding new line
+line resolved
 line 3
 
